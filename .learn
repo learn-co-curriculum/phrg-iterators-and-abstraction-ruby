@@ -7,3 +7,5 @@ languages:
   - ruby
 type:
   - tutorial
+
+parent_template: git@github.com:learn-co-curriculum/iterators-and-abstraction-ruby.git
