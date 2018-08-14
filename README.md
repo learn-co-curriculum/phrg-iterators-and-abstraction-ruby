@@ -91,4 +91,7 @@ Here we see the full power of the Ruby iterators. To quote Kent Beck, "you don't
 
 Don't worry if you're not fully grasping `each`. We'll cover this more in depth in subsequent lessons. 
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-iterators-and-abstraction-ruby/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-iterators-and-abstraction-ruby/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Enumeration and Iteration</p>
